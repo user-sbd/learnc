@@ -3,6 +3,7 @@
 // by: nitin subedi
 
 #include <stdio.h>
+#include <math.h>
 
 int main() {
 
@@ -11,21 +12,37 @@ int main() {
   char operator;
   char line[100];
 
-  printf("calculator by Nitin\n");
+  printf("calc by Nitin\n");
   printf("enter expression: ");
   fgets(line, sizeof(line), stdin);
-  printf("%s", line);
+  // printf("%s", line);
   sscanf(line, "%f %c %f", &num1, &operator, &num2);
-  printf("%f\n", num1);
-  printf("%c\n", operator);
-  printf("%f\n", num2);
+  // printf("%f\n", num1);
+  // printf("%c\n", operator);
+  // printf("%f\n", num2);
 
   switch (operator) {
   case '+':
     ans = num1 + num2;
-                                printf("%f",ans);
-break:
-	default: 
-	printf("try again");
+		printf("%.f\n", ans);
+    break;
+	case '-':
+		ans = num1 - num2;
+		printf("%.f\n", ans);
+    break;
+	case '*':
+		ans = num1 * num2;
+		printf("%.f\n", ans);
+    break;
+	case '/':
+		ans = num1 / num2;
+		printf("%.f\n", ans);
+    break;
+	case '^':
+		ans = pow(num1, num2);
+		printf("%.f\n", ans);
+    break;
+  default:
+    printf("Operator could not be read.\n");
   };
 }
