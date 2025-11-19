@@ -1,7 +1,6 @@
 # 50 c projects to do in order from easy to hard
 ## make a seperate folder for each
 
-
 Swap two numbers with and without a third variable  
 Check if a number is even or odd  
 Find the largest of three numbers  
@@ -33,7 +32,7 @@ Nested structure: student → address (city, state, pin)
 Simple function examples: check leap year, power function, sum of digits  
 Recursive functions: GCD, reverse string, decimal to binary  
 Count vowels/consonants, convert case without library functions  
-Menu-driven string operations (concat, compare, substring, palindrome)  
+Menu-driven string operations (concat, compare, substring, palindrome)
 Basic file handling: write 10 numbers to file and read back  
 Write student records to file and display them  
 Search student by roll number from file  
@@ -52,4 +51,3 @@ Linked list: insert at beginning, delete node, reverse list
 Stack implementation using array and using linked list  
 Queue implementation using array (circular queue) and linked list  
 Simple phonebook using structures + file handling (add, search, delete, display all) – full menu-driven program  
-
