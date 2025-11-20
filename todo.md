@@ -1,8 +1,9 @@
 # 50 c projects to do in order from easy to hard
 ## make a seperate folder for each
-
-Swap two numbers with and without a third variable  
-Check if a number is even or odd  
+- [x] calc
+- [x] sum
+- [x] swap with and without thrid
+- [ ] Check if a number is even or odd  
 Find the largest of three numbers  
 Print multiplication table of a given number  
 Print Fibonacci sequence up to n terms  
