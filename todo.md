@@ -1,11 +1,11 @@
 # 50 c projects to do in order from easy to hard
 ## make a seperate folder for each
+
 - [x] calc
 - [x] sum
 - [x] swap with and without thrid
-- [ ] Check if a number is even or odd  
+- [x] Check if a number is even or odd  
 
-Check if a number is even or odd  
 Find the largest of three numbers  
 Print multiplication table of a given number  
 Print Fibonacci sequence up to n terms  
