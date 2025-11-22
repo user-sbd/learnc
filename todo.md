@@ -4,6 +4,10 @@
 - [x] sum
 - [x] swap with and without thrid
 - [ ] Check if a number is even or odd  
+
+Swap two numbers with and without a third variable  
+Check if a number is even or odd  
+>>>>>>> 4e40ebe (adding swap with and without 3rd varible)
 Find the largest of three numbers  
 Print multiplication table of a given number  
 Print Fibonacci sequence up to n terms  

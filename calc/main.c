@@ -43,6 +43,6 @@ int main() {
 		printf("%.f\n", ans);
     break;
   default:
-    printf("Operator could not be read.\n");
+    printf("Expression could not be read.\n");
   };
 }
