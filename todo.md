@@ -5,8 +5,8 @@
 - [x] sum
 - [x] swap with and without thrid
 - [x] Check if a number is even or odd  
+- [x] Find the largest of three numbers  
 
-Find the largest of three numbers  
 Print multiplication table of a given number  
 Print Fibonacci sequence up to n terms  
 Check if a number is prime  
