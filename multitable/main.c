@@ -10,5 +10,4 @@ int main(){
 			sum	= i * num;
 			printf("%d * %d = %d\n", num,i,sum);
 	}
-
 }
