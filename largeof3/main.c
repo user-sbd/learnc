@@ -11,6 +11,5 @@ int main() {
 		printf("%d is the largest number\n", two);
 	}
 	else {
-		printf("%d is the largest number\n", three);
 	}
 }
