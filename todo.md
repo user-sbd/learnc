@@ -53,3 +53,5 @@
 - [ ] Stack implementation using array and using linked list  
 - [ ] Queue implementation using array (circular queue) and linked list  
 - [ ] Simple phonebook using structures + file handling (add, search, delete, display all) – full menu-driven program  
+
+once this is done then real projects
