@@ -1,13 +1,16 @@
 # 50 c projects to do in order from easy to hard
 ## make a seperate folder for each
 
+DONE:
 - [x] Calculator using switch case
 - [x] Sum of two numbers
 - [x] Swap with and without thrid
 - [x] Check if a number is even or odd  
 - [x] Find the largest of three numbers  
 - [x] Print multiplication table of a given number  
-- [ ] Print Fibonacci sequence up to n terms  
+- [x] Print Fibonacci sequence up to n terms  
+
+TODO:
 - [ ] Check if a number is prime  
 - [ ] Reverse a number and reverse a string (without library functions)  
 - [ ] Calculate factorial (iterative + recursive)  
