@@ -9,12 +9,12 @@ DONE:
 - [x] Find the largest of three numbers  
 - [x] Print multiplication table of a given number  
 - [x] Print Fibonacci sequence up to n terms  
+- [x] Check if a number is prime  
 
 TODO:
-- [ ] Check if a number is prime  
 - [ ] Reverse a number and reverse a string (without library functions)  
+- [ ] Rock Paper Scissors game
 - [ ] Calculate factorial (iterative + recursive)  
-- [ ] Simple calculator using switch-case  
 - [ ] Print star patterns (triangle, pyramid, diamond, hollow shapes)  
 - [ ] Find GCD and LCM of two numbers  
 - [ ] Armstrong number checker  
