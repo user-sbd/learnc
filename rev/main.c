@@ -1,25 +1,24 @@
 #include <stdio.h>
 
-int revstring(const char* str){
+int rev(char *str){
 	int length = 0;
-	while (str[length] != '\0') {
+	
+	while (str[length] != '\0'){
 		length++;
 	}
-	int start = 0;
-	int end = length - 1;
-	char temp;
-
-	while (start < end) {
-		temp = str[start];
+	int start = 0, end = length - 1;
+	while (start < end){
+		char temp = str[start]; 
 		str[start] = str[end];
-		start++;
-		end--;
+		str[end] = temp;
+		printf("%s", str);
 	}
+	return 0;
 }
 
 int main(){
-  char string[15];
+  char str[100];
   printf("Enter a string: ");
-	scanf("%s", string);
+	scanf("%s", str);
   return 0;
 }

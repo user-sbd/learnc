@@ -1,0 +1,16 @@
+cc = clang
+flags = -Wall -g -fcolor-diagnostics
+cwd = /Users/nitin/Documents/projects/learnc/fib
+builddir = /Users/nitin/Documents/projects/learnc/fib/build
+target = $builddir/main
+
+rule link
+  command = $cc $flags -o $out $in
+
+rule compile
+  command = $cc $flags -c $in -o $out
+
+build $builddir/main.o: compile $cwd/main.c
+build $target: link $builddir/main.o
+
+default $target
