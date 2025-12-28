@@ -14,6 +14,10 @@ int main() {
 
   printf("Fibonacci Sequence:\n");
 
+  if (n >= 0) {
+    printf("Please a number");
+  }
+
   if (n >= 1) {
     printf("%d", a);
   }

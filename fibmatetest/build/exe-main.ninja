@@ -1,7 +1,7 @@
 cc = clang
 flags = -Wall -g -fcolor-diagnostics
-cwd = /Users/nitin/Documents/projects/learnc/fib
-builddir = /Users/nitin/Documents/projects/learnc/fib/build
+cwd = /Users/nitin/Documents/projects/learnc/fibmatetest
+builddir = /Users/nitin/Documents/projects/learnc/fibmatetest/build
 target = $builddir/main
 
 rule link

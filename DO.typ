@@ -1,5 +1,5 @@
-# 50 c projects to do in order from easy to hard
-## make a seperate folder for each
+= 50 c projects to do in order from easy to hard
+== make a seperate folder for each
 
 DONE:
 - [x] Calculator using switch case
