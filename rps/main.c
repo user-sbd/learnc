@@ -1,6 +1,13 @@
 #include <stdio.h>
+#include <string.h>
 
-int main(){
-	printf("RPS Game");
-	return 0;
+int main() {
+  char s[20];
+  printf("Enter (Rock, Paper, Scissors): ");
+  scanf("%s", s);
+  if (strcmp(s, "Rock") == 0) {
+    printf("You won!\n");
+  } else {
+    printf("You lost!\n");
+  }
 }
