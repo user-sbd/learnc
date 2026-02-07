@@ -1,6 +1,3 @@
-// i might need to refactor this whole file so that it looks better
-
-// school projects
 - [ ] Calculate simple intrest
 - [ ] Find the greatest of two
   numbers
