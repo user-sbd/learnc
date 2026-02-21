@@ -1,22 +1,15 @@
-- [ ] Calculate simple intrest
-- [ ] Find the greatest of two
-  numbers
-
 = 50 c projects to do in order from easy to hard
-new
 == make a seperate folder for each
 
-DONE:
-- [x] Calculator using switch case
-- [x] Sum of two numbers
-- [x] Swap with and without thrid
-- [x] Check if a number is even or odd  
-- [x] Find the largest of three numbers  
-- [x] Print multiplication table of a given number  
-- [x] Print Fibonacci sequence up to n terms  
-- [x] Check if a number is prime  
-
 TODO:
+- [x] Sum of two numbers
+- [ ] Check if a number is even or odd  
+- [ ] Calculator using switch case
+- [ ] Swap with and without thrid
+- [ ] Find the largest of three numbers  
+- [ ] Print multiplication table of a given number  
+- [ ] Print Fibonacci sequence up to n terms  
+- [ ] Check if a number is prime  
 - [ ] Reverse a number and reverse a string (without library functions)  
 - [ ] Rock Paper Scissors game
 - [ ] Calculate factorial (iterative + recursive)  
