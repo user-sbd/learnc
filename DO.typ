@@ -3,9 +3,9 @@
 
 TODO:
 - [x] Sum of two numbers
-- [ ] Check if a number is even or odd  
-- [ ] Calculator using switch case
+- [x] Check if a number is even or odd  
 - [ ] Swap with and without thrid
+- [ ] Calculator using switch case
 - [ ] Find the largest of three numbers  
 - [ ] Print multiplication table of a given number  
 - [ ] Print Fibonacci sequence up to n terms  

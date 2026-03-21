@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-int main() {
-  int marks;
-  printf("enter your marks in computer: ");
-  scanf("%d", &marks);
-	if (marks > 30){
-		printf("you have passed \n");
-	}else {
-		printf("you have failed\n");
-	}
+int main(){
+  int n1,n2,sum;
+  printf("Enter the first number");
+  scanf("%d",&n1);
+  printf("Enter the second number");
+  scanf("%d",&n2);
+  sum = n2 + n1;
+  printf("The sum of these two numbers is %d",sum);
+  return 0;
 }
