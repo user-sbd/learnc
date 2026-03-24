@@ -4,10 +4,11 @@
 TODO:
 - [x] Sum of two numbers
 - [x] Check if a number is even or odd  
+- [x] Print multiplication table of a given number  
+- [x] Random number guesser
+- [ ] Find the largest of three numbers  
 - [ ] Swap with and without thrid
 - [ ] Calculator using switch case
-- [ ] Find the largest of three numbers  
-- [ ] Print multiplication table of a given number  
 - [ ] Print Fibonacci sequence up to n terms  
 - [ ] Check if a number is prime  
 - [ ] Reverse a number and reverse a string (without library functions)  
