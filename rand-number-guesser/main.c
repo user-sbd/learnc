@@ -22,6 +22,6 @@ int main() {
     }
     else {
       printf("You are right!\n You completed in %d attempts\n", attempts);
-      guessed = true; // This is how you set the boolean after declaring
+      guessed = true;
     }
 } }
