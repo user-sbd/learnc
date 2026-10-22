@@ -1,17 +1,17 @@
 #include <stdio.h>
 
-int main(){
-  int num1,num2,num3;
-  printf("Enter number 1,2, and 3: ");
-  scanf("%d %d %d",&num1, &num2, &num3);
-  if(num1>num2 && num1>num3){
-    printf("%d is the greater number\n",num1);
-  }
-  if(num2>num1 && num2>num3){
-    printf("%d is the greater number\n",num2);
-  }
-  if(num3>num1 && num3>num2){
-    printf("%d is the greater number\n",num3);
-  }
+int main() {
+  int one, two, three;
+  printf("Enter 3 numbers: ");
+  scanf("%d %d %d", &one, &two, &three);
 
+  if (one > two && one > three) {
+    printf("%d is the greatest\n", one);
+  } else if (two > one && two > three) {
+    printf("%d is the greatest\n", two);
+  } else {
+    printf("%d is the greatest\n", three);
+  }
+  return 0;
 }
+
